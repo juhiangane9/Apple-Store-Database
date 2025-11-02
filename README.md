@@ -56,3 +56,11 @@ JOIN Orders o ON c.customer_id = o.customer_id
 GROUP BY c.name
 ORDER BY total_spent DESC
 LIMIT 3;
+
+### Author
+**Juhi Angane**  
+📍 Mumbai, India  
+💼 Aspiring Data Analyst | SQL | Excel | Data Visualization  
+📧 juhiangane9@gmail.com  
+🔗 [LinkedIn Profile]-www.linkedin.com/in/juhi-angane-8a4430338
+
